@@ -8,4 +8,4 @@ def main_function(n):
     for i in range(n):
         print(i**n)
 
-    print("Finished at time {}".format(time.time()))
+    print("[INFO] - Finished at time {}".format(time.time()))
