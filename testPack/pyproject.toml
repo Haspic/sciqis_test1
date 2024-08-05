@@ -1,0 +1,6 @@
+[project]
+name = "testPack"
+version = "0.1.0"
+dependencies = [
+    "time"
+]
